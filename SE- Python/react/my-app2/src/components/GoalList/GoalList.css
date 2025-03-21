@@ -1,0 +1,31 @@
+.course-goal {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-goal h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .course-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .course-list li {
+    font-size: 18px;
+    color: #555;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .course-list li:last-child {
+    border-bottom: none;
+  }
+  
